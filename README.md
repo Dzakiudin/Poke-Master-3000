@@ -28,7 +28,7 @@
 1. **Download atau clone** repositori ini
 2. Buka Chrome, masuk ke `chrome://extensions`
 3. Aktifkan **Developer Mode** (pojok kanan atas)
-4. Klik **"Load unpacked"**, lalu pilih folder `poke-master`
+4. Klik **"Load unpacked"**, lalu pilih folder `poke-master By Jaki Jeki`
 5. Buka Facebook dan akses halaman ini:
    👉 [`https://facebook.com/pokes`](https://facebook.com/pokes)
 6. Klik ikon ekstensi → tekan tombol **Poke All Friends**
