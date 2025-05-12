@@ -1,6 +1,6 @@
 # 🥊 **Poke Master 3000** – Auto Poke Facebook Extension
 
-🚀 **Poke Master 3000** adalah ekstensi Chrome yang bikin lo bisa **colek semua teman di Facebook** secara otomatis dalam sekali klik.
+🚀 **Poke Master 3000** adalah ekstensi Chrome yang bikin lu bisa **colek semua teman di Facebook** secara otomatis dalam sekali klik.
 
 ---
 
